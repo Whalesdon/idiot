@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fpool\u002F[id]","\u002Fpool\u002F[id]\u002Fclaim","\u002Fpool\u002F[id]\u002Fclaim\u002F[chain]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
